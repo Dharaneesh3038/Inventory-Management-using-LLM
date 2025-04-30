@@ -1,1 +1,1 @@
-# Owner-avatar-Inventory-Management-using-LLM
+# Inventory-Management-using-LLM
